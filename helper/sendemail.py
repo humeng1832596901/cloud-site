@@ -8,9 +8,9 @@ class SendEmail():
     def __init__(self):
 
         self.info = {}
-        self.info['name'] = 'mengjianhua93@gmail.com'
-        self.info['password'] = 'meng1993'
-        self.server = smtplib.SMTP('smtp.gmail.com', 587)
+        self.info['name'] = 'xxx@gmail.com'
+        self.info['password'] = 'xxx' #邮箱密码
+        self.server = smtplib.SMTP('smtp.gmail.com', 25) #SSL连接不稳定，直接换成原生SMTP协议
         self.server.ehlo_or_helo_if_needed()
         self.server.starttls()
         self.server.login(self.info['name'], self.info['password'])
@@ -18,19 +18,9 @@ class SendEmail():
     def Send(self, to='email', sub='title', text='pleace input some thing'):
         Body = '\r\n'.join(
             [f'To: {to}', 'From: {}'.format(self.info['name']), f'Subject: {sub}', '', urllib.parse.quote(text)])
-        # message = Message()
-        # message['Subject'] = sub  # 邮件标题
-        # message['From'] = 'mengjianhua93@gmail.com'
-        # message['To'] = to
-        # message['Cc'] = to
-        # te = str(text.encode('utf8')).split('\'')[1]
-        # print(te)
-        # message.set_payload(text)  # 邮件正文
-        # msg = message.as_string(True)
-        # print(msg)
         froms = 'From nobody ' + time.ctime(time.time()) + '\n'
         subs = f'Subject: {sub}\n'
-        mfroms = 'From: mengjianhua93@gmail.com\n'
+        mfroms = 'From: xxxx@gmail.com\n'    #你的邮箱
         Tos = f'To: {to}\n'
         Ccs = f'Cc: {to}\n\n'
         msgs = ''.join([froms, subs, mfroms, Tos, Ccs, text])
@@ -45,24 +35,24 @@ class SendEmail():
 
 
 def send_email(content, to_email):
-    sender = 'mengjianhua93@gmail.com'
+    sender = 'xxx@gmail.com'    #你的邮箱
     receiver = to_email
     host = 'smtp.gmail.com'
-    port = 587
+    port = 25
     msg = Message()
-    msg['From'] = 'mengjianhua93@gmail.com'
+    msg['From'] = 'xxx@gmail.com'  #你的邮箱
     msg['To'] = to_email
     msg['Subject'] = 'yuncluod.com'
     try:
-        smtp = smtplib.SMTP_SSL(host, port)
-        smtp.login(sender, 'meng1993')
+        smtp = smtplib.SMTP(host, port)
+        smtp.ehlo()  # 向Gamil发送SMTP 'ehlo' 命令
+        smtp.starttls()
+        smtp.login(sender, 'xxx') #这里填写gmail密码
         smtp.sendmail(sender, receiver, msg.as_string())
         print('send ok')
     except Exception as e:
         print(e)
 
 if __name__ == '__main__':
-#     email = SendEmail()
-#
-#     email.Send(to='1711621009@qq.com', sub='yun cluod', text='hello python,哈哈还需要测试下新的编码方法')
-    send_email('你好，哈哈', '1711621009@qq.com')
+    #如果还不行记得把谷歌的二级验证关掉
+    send_email('你好，哈哈', 'xxx') #这里填写测试邮箱
