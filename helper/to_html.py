@@ -1,9 +1,3 @@
-"""
-CREAT: 2017/8/7
-AUTHOR:　HEHAHUTU
-"""
-
-
 def create_html(data, file_type):
     ch = {
         '.py': type_py,
