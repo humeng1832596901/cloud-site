@@ -16,6 +16,7 @@ def now():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 
+
 def start_gun():
     os.system('/var/www/cloud_venv/bin/python3 /var/www/cloud_venv/bin/gunicorn -w3 -b127.0.0.1:6000 run:app')
 
