@@ -3,6 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from werkzeug.contrib.fixers import ProxyFix
 import multiprocessing, threading
 import requests
+#如果没有自建config.json便把下面一句注释，把SECRET_KEY直接换成某个加密盐即可
 from config import MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_HOTS, MYSQL_DB, SECRET_KEY
 
 app = Flask(__name__, static_url_path='')
