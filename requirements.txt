@@ -31,6 +31,7 @@ opbeat==3.1.1
 py==1.5.2
 pyasn1==0.2.3
 pyasn1-modules==0.0.8
+pyjwt==2.1.0
 PyMySQL==0.7.11
 pytest==3.2.5
 python-dateutil==2.6.1
