@@ -9,7 +9,9 @@ from email.mime.text import MIMEText
 import httplib2
 import os
 
-from apiclient import discovery
+#在google-api-python-client中导入
+#from apiclient import discovery
+from google-api-python-client import discovery
 import oauth2client
 from oauth2client import client
 from oauth2client import tools
