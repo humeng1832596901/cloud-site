@@ -1,17 +1,13 @@
 from itsdangerous import TimedJSONWebSignatureSerializer as SafeSerializer
-from itsdangerous import URLSafeSerializer
 from config import SECRET_KEY
 def dumps_data(data):
     #生成校验令牌，令牌有效期为十分钟
     s = SafeSerializer(SECRET_KEY,expires_in = 600)
-    #s = SafeSerializer(SECRET_KEY)
-    #s = URLSafeSerializer(SECRET_KEY)
     return s.dumps(data)
 
 def loads_data(data):
     #检验令牌
     s = SafeSerializer(SECRET_KEY)
-    #s = URLSafeSerializer(data)
     try:
         return s.loads(data)
     except:
