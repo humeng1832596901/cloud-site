@@ -1,8 +1,0 @@
-.idea/
-
-static/disk/*
-*.mp3
-config.py
-/db
-cloud.db
-
