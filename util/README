@@ -1,0 +1,2 @@
+serializer.py用于对文件分享的签名
+pwd_serializer.py用于对重置密码链接的校验(默认10钟失效,可在配置文件改)
