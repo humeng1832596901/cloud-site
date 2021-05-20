@@ -26,7 +26,6 @@
 
 <body>
 <div class="login">
-<!--<h3>登录, 开启属于自己的空间^_^</h3>-->
     <h3>登录</h3>
     <form action="/admin/login/" method="post" class="form-horizontal">
         {% with message = get_flashed_messages() %}
@@ -61,7 +60,7 @@
         <div style="margin: 10px auto;" id="captcha_div"></div> <!-- 验证码容器元素定义 -->
         <div class="form-group ">
             <div class="col-lg-6  col-lg-offset-3 col-sm-10 col-sm-offset-1">
-                <button class="btn btn-success btn-block">登陆</button>
+                <button class="btn btn-success btn-block" id="submit-btn">登陆</button>
             </div>
         </div>
     </form>
@@ -114,20 +113,26 @@
 <script src="/js/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 <script src="//cstaticdun.126.net/load.min.js"></script>
 <script> // 验证码组件初始化
+      var captchaIns; 
+      var isVerify = false;
       initNECaptcha({
-        captchaType: 1, 
+        captchaType: 7, 
         captchaId: 'a6fe40ace298333b4916c840aa237398', // <-- 这里填入在易盾官网申请的验证码id
         element: '#captcha_div',
         mode: 'float',
         width: '320px',
+        feedbackEnable: 'true',
         onVerify: function(err, ret){
           if(!err){
-              // ret['validate'] 获取二次校验数据
+              isVerify = true;
+              //ret['validate'] 获取二次校验数据
           }
         }
       }, function (instance) {
+          captchaIns = instance;
         // 初始化成功后得到验证实例instance，可以调用实例的方法
       }, function (err) {
+          alert("验证码初始化失败，请刷新页面重试");
         // 初始化失败后触发该函数，err对象描述当前错误信息
       });
 </script>
@@ -135,6 +140,12 @@
     $(document).ready(function () {
         $('.un-pwd').click(function () {
             $('#un-modal').modal()
+        });
+        $('#submit-btn').click(function (){
+            if (!isVerify) {
+                alert("请进行验证后再提交信息");
+                return false;
+            }
         });
         $('.reg-key').click(function () {
             $('#reg-modal').modal()
