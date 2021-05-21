@@ -36,7 +36,6 @@ class Users(db.Model):
 
     def __init__(self, name, show_name, password, password_forget, email, login_time=None, real_folder=None,
                  valid_date=None, register_key=None, share_key=None, sync_key=None,
-                 #authority=1, use_size=500, is_upload_folder=0, is_create_folder=0, is_download_folder=0,
                  authority=2, use_size=500, is_upload_folder=0, is_create_folder=0, is_download_folder=0,
                  user_group_id=0, create_time=datetime.now()):
         self.name = name
