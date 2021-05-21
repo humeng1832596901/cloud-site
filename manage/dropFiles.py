@@ -8,7 +8,6 @@ import os
 每天执行一次，时间为24点20分
 """
 
-
 def drop_files():
     while True:
         trash_folders = db.session.query(DiskFolder).filter(DiskFolder.is_trash == 1).all()

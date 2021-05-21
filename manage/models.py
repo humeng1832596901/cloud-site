@@ -6,8 +6,6 @@ folder_path : 文件路径
 group_id： 所属文件夹id
 user_id： 所属用户id
 user_group：该文件是否向用户组开放
-
-
 """
 
 class DiskFolder(db.Model):

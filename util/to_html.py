@@ -4,7 +4,7 @@ def create_html(data, file_type):
         '.txt': type_txt,
         '.json': type_py,
         '.csv': type_py,
-
+        '.movie': type_movie,
         '.audio': type_audio,
 
         '.image': type_image,
@@ -15,6 +15,10 @@ def create_html(data, file_type):
         return get_type(data)
     else:
         return data
+
+#movie
+def type_movie(data):
+    return movie_html
 
 # py
 def type_py(data):
@@ -91,4 +95,8 @@ audio_html = """
 			</div>
 		</div>
 	</div>
+"""
+
+movie_html = """
+
 """
