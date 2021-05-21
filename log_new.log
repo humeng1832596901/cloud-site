@@ -819,3 +819,375 @@ NameError: name 'render_template' is not defined
 2021-05-21 11:03:22,662 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 11:03:22] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
 2021-05-21 11:03:22,666 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 11:03:22] "GET /admin/login/ HTTP/1.1" 200 -
 2021-05-21 11:03:22,746 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 11:03:22] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:17:19,996 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 14:17:27,746 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:17:27] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-21 14:17:27,755 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:17:27] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-21 14:17:27,768 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:17:27] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:17:27,886 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:17:27] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:18:29,403 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-21 14:18:29,419 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-21 14:18:29,513 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "[36mGET /css/manage/font_hehahutu/iconfont.woff?t=1495258202566 HTTP/1.1[0m" 304 -
+2021-05-21 14:18:29,518 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "[36mGET /css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2021-05-21 14:18:29,556 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "[36mGET /css/manage/font/iconfont.woff?t=1493914230439 HTTP/1.1[0m" 304 -
+2021-05-21 14:18:29,612 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:18:29,621 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-21 14:18:29,683 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:29] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-21 14:18:40,014 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:40] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-21 14:18:40,594 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:40] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-21 14:18:40,773 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:40] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-21 14:18:42,971 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:42] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-21 14:18:42,988 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:42] "GET /audio/images/play.png HTTP/1.1" 200 -
+2021-05-21 14:18:42,990 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:42] "GET /audio/images/next.png HTTP/1.1" 200 -
+2021-05-21 14:18:42,990 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:42] "GET /audio/images/prev.png HTTP/1.1" 200 -
+2021-05-21 14:18:42,995 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:42] "GET /audio/images/menu.png HTTP/1.1" 200 -
+2021-05-21 14:18:43,006 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:43] "GET /audio/images/volume.png HTTP/1.1" 200 -
+2021-05-21 14:18:43,007 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:43] "GET /audio/images/cover2.jpg HTTP/1.1" 200 -
+2021-05-21 14:18:43,019 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:43] "GET /disk/json/detail/?file_id=48&type=audio HTTP/1.1" 200 -
+2021-05-21 14:18:43,102 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:43] "GET /audio/images/pause.png HTTP/1.1" 200 -
+2021-05-21 14:18:48,109 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:48] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-21 14:18:55,658 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-21 14:18:55,691 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,692 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,695 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,697 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,698 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,702 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,706 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,720 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,723 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,725 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,729 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,730 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,734 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,735 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,738 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,739 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,747 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,749 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,758 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-21 14:18:55,818 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:18:55,823 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-21 14:18:55,856 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:18:55] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-21 14:19:05,457 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:19:05] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+2021-05-21 14:19:36,664 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:19:36] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 14:19:36,674 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:19:36] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 14:19:36,678 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:19:36] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:19:36,748 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:19:36] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:49:00,365 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 14:49:03,097 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:49:03,124 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,131 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,132 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,133 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,133 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,150 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /img/admin/mask.png HTTP/1.1[0m" 304 -
+2021-05-21 14:49:03,151 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:03] "[36mGET /img/admin/1.jpg HTTP/1.1[0m" 304 -
+2021-05-21 14:49:11,953 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:11] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-21 14:49:11,978 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:11] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-21 14:49:11,985 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:11] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:49:28,389 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:28] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-21 14:49:28,397 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:28] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-21 14:49:28,412 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:28] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:49:31,213 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:49:31] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:50:04,346 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:04] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-21 14:50:04,369 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:04] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-21 14:50:04,557 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:04] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 14:50:04,594 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:04] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-21 14:50:04,611 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:04] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-21 14:50:20,562 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:20] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 14:50:20,578 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:20] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 14:50:20,595 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:20] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 14:50:21,376 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 14:50:21] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 15:30:12,696 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:30:18,494 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:30:18] "[32mGET /movie HTTP/1.1[0m" 308 -
+2021-05-21 15:30:18,510 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:30:18] "GET /movie/ HTTP/1.1" 200 -
+2021-05-21 15:32:45,381 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:32:47,431 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 41, in show_movie
+    return render_template('movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: movie.html
+2021-05-21 15:32:47,438 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:32:47] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:34:26,827 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:34:28,280 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 41, in show_movie
+    return render_template('admin/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: admin/movie.html
+2021-05-21 15:34:28,283 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:34:28] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:38:53,919 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:38:55,259 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 41, in show_movie
+    return render_template('./templates/admin/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./templates/admin/movie.html
+2021-05-21 15:38:55,263 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:38:55] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:38:56,718 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 41, in show_movie
+    return render_template('./templates/admin/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./templates/admin/movie.html
+2021-05-21 15:38:56,720 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:38:56] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:40:59,733 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:41:01,379 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:41:01] "GET /movie/ HTTP/1.1" 200 -
+2021-05-21 15:42:08,483 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:42:15,011 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 42, in show_movie
+    return render_template('./templates/admin/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./templates/admin/movie.html
+2021-05-21 15:42:15,016 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:42:15] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:43:58,780 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:44:04,187 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 42, in show_movie
+    return render_template('./templates/admin/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: ./templates/admin/movie.html
+2021-05-21 15:44:04,191 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:44:04] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:44:26,512 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:44:28,218 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 42, in show_movie
+    return render_template('/movie/movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: /movie/movie.html
+2021-05-21 15:44:28,223 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:44:28] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 15:44:45,470 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 15:44:47,625 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /movie/ [GET]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "run.py", line 42, in show_movie
+    return render_template('movie.html')
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python3/dist-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python3/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/lib/python3/dist-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: movie.html
+2021-05-21 15:44:47,628 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 15:44:47] "[35m[1mGET /movie/ HTTP/1.1[0m" 500 -
+2021-05-21 16:00:20,786 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-21 16:00:25,281 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:25] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-21 16:00:25,302 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:25] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-21 16:00:25,330 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:25] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 16:00:25,598 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:25] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:00:44,969 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:44] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-21 16:00:45,014 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:45] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-21 16:00:45,337 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:45] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:00:45,382 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:45] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-21 16:00:45,444 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:45] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-21 16:00:51,998 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:51] "POST /disk/delete/ HTTP/1.1" 200 -
+2021-05-21 16:00:52,038 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:52] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-21 16:00:52,041 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:52] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:00:55,452 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:55] "GET /disk/trash/ HTTP/1.1" 200 -
+2021-05-21 16:00:55,819 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:55] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:00:55,858 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:55] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:00:55,860 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:55] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-21 16:00:55,861 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:00:55] "POST /disk/trash/ HTTP/1.1" 200 -
+2021-05-21 16:01:00,093 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:00] "POST /disk/dropFile/ HTTP/1.1" 200 -
+2021-05-21 16:01:00,125 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:00] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-21 16:01:00,138 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:00] "POST /disk/trash/ HTTP/1.1" 200 -
+2021-05-21 16:01:01,965 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:01] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 16:01:01,993 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:01] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-21 16:01:02,004 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:02] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-21 16:01:02,247 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [21/May/2021 16:01:02] "GET /disk/json/diskSize/ HTTP/1.1" 200 -

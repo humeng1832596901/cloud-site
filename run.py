@@ -5,6 +5,7 @@ import multiprocessing, threading
 import requests
 from config import SECRET_KEY
 import logging
+from flask import render_template
 
 logging.basicConfig(level=logging.DEBUG,#控制台打印的日志级别
                     filename='log_new.log',  # 将日志写入log_new.log文件中
@@ -35,6 +36,10 @@ app.register_blueprint(admin, url_prefix='/admin')
 def hello_world():
     return redirect(url_for('manage.home'))
 
+@app.route('/movie/')
+def show_movie():
+    #return "test"
+    return render_template('movie.html')
 
 @app.route('/404/')
 def get_error():
@@ -42,10 +47,5 @@ def get_error():
 
 from manage.dropFiles import drop_files
 
-"""
-这里开的一个进程目的是为了执行定时回收站文件清理
-在/manage/dropFiles
-实测这里是没用的，所以只能手动把这个脚本起来。。。
-"""
 if __name__ == '__main__':
     app.run(debug=False)
