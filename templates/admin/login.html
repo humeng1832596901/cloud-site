@@ -124,15 +124,14 @@
         feedbackEnable: 'true',
         onVerify: function(err, ret){
           if(!err){
+	      //验证通过将isVerify全局变量设置为真
               isVerify = true;
           }
         }
       }, function (instance) {
           captchaIns = instance;
-        // 初始化成功后得到验证实例instance，可以调用实例的方法
       }, function (err) {
           alert("验证码初始化失败，请刷新页面重试");
-        // 初始化失败后触发该函数，err对象描述当前错误信息
       });
 </script>
 <script>

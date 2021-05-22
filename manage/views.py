@@ -26,15 +26,14 @@ from util.serializer import dumps_data, loads_data
     文件夹，只会恢复该文件夹，不会恢复所属文件夹和文件。
 
 """
-POWER_TXT = ['.py', '.txt', '.json', '.log', '.c', '.cpp', '.rst', '.java', '.asm']
+POWER_TXT = ['.py', '.txt', '.json', '.log', '.c', '.cpp', '.rst', '.java']
 POWER_AUDIOS = ['.mp3', '.flac', '.ape', '.wav', '.aac', '.m4a']
 POWER_IMAGE = ['.jpg', '.png', '.gif', '.bmp']
-POWER_MOVIE = ['.mp4', '.avi', '.rmvb']
 
 MAX_TXT = 5 * 1024
 MAX_AUDIO = 30 * 1024
 MAX_IMAGE = 10 * 1024
-MAX_MOVIE = 50 * 1024
+
 
 class IndexPage(MethodView):
     def get(self):
@@ -194,8 +193,6 @@ class FileDetail(MethodView):
             file = db.session.query(DiskFile).filter(DiskFile.user_id == user_id, DiskFile.id == file_id).one_or_none()
 
             if file:
-                
-                #if os.path.splitext(file.file_name)[-1] in POWER_MOVIE:
 
                 if os.path.splitext(file.file_name)[-1] in POWER_AUDIOS:
                     if file.file_size < MAX_AUDIO:
