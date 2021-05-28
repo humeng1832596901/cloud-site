@@ -49,7 +49,6 @@ def type_audio(data):
 def type_image(data):
     return f'<article><img src="{data}" alt="image" style="max-height: 100%; max-width: 100%"></article>'
 
-
 audio_html = """
 <input type="hidden" id="songs">
 <div class="audio-box">

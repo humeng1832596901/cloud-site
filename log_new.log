@@ -2125,3 +2125,1089 @@ ValueError: invalid literal for int() with base 10: 'NaN'
 2021-05-22 08:49:49,886 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 08:49:49] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
 2021-05-22 08:49:49,907 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 08:49:49] "GET /admin/getMessage/ HTTP/1.1" 200 -
 2021-05-22 08:49:51,111 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 08:49:51] "GET /js/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+2021-05-22 09:28:41,031 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 09:28:45,067 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:28:45] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-22 09:28:45,074 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:28:45] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-22 09:28:45,090 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:28:45] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-22 09:28:45,276 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:28:45] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:29:01,088 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:01] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-22 09:29:01,105 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:01] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 09:29:01,250 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:01] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:29:01,270 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:01] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-22 09:29:01,281 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:01] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:29:02,904 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-22 09:29:02,924 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "GET /audio/images/prev.png HTTP/1.1" 200 -
+2021-05-22 09:29:02,933 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "GET /audio/images/volume.png HTTP/1.1" 200 -
+2021-05-22 09:29:02,933 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "GET /audio/images/play.png HTTP/1.1" 200 -
+2021-05-22 09:29:02,938 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "GET /audio/images/cover2.jpg HTTP/1.1" 200 -
+2021-05-22 09:29:02,946 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:02] "GET /disk/json/detail/?file_id=48&type=audio HTTP/1.1" 200 -
+2021-05-22 09:29:03,031 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:03] "GET /audio/images/pause.png HTTP/1.1" 200 -
+2021-05-22 09:29:51,759 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 09:29:54,634 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 09:29:54,657 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,661 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,662 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,664 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,669 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,671 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,679 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,682 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,683 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,686 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,691 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,695 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,701 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,704 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,706 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,707 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,710 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,712 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,715 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:54,741 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:29:54,753 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-22 09:29:54,770 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:54] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:29:56,002 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-22 09:29:56,018 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/prev.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,021 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/next.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,023 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/play.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,025 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/menu.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,030 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/cover2.jpg HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,031 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/volume.png HTTP/1.1[0m" 304 -
+2021-05-22 09:29:56,128 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:29:56] "[36mGET /audio/images/pause.png HTTP/1.1[0m" 304 -
+2021-05-22 09:43:23,192 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 09:43:47,810 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 09:43:53,810 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:43:53] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-22 09:43:53,956 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:43:53] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:43:53,958 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:43:53] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:43:53,974 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:43:53] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:07,330 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:07] "POST /admin/message/ HTTP/1.1" 200 -
+2021-05-22 09:44:08,418 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:08] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-22 09:44:08,521 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:08] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:44:08,538 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:08] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:08,571 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:08] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:10,190 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:10] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-22 09:44:10,310 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:10] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:44:10,320 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:10] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:10,340 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:10] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:12,133 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:12] "GET /admin/changeMessage/?key=353 HTTP/1.1" 200 -
+2021-05-22 09:44:12,145 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:12] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:12,151 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:12] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:13,648 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:13] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 09:44:13,757 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:13] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:44:13,765 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:13] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-22 09:44:13,785 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:13] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 09:44:24,157 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:24] "[36mGET /bootstrap-fileinput/img/loading.gif HTTP/1.1[0m" 304 -
+2021-05-22 09:44:25,548 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:25] "[36mGET /bootstrap-fileinput/img/loading-sm.gif HTTP/1.1[0m" 304 -
+2021-05-22 09:44:25,621 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:25] "POST /disk/upload/ HTTP/1.1" 200 -
+2021-05-22 09:44:25,739 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:25] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 09:44:25,741 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:25] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-22 09:44:32,216 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-05-22 09:44:32,218 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 09:44:32] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:17:24,058 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:17:27,733 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 13:17:27,796 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,804 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,804 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,809 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,810 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,812 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,818 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,819 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,822 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,828 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,830 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,832 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,833 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,835 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,838 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,840 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,845 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,848 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 13:17:27,851 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:27] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 13:17:28,170 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:28] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 13:17:28,175 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:28] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-22 13:17:28,195 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:28] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 13:17:30,659 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:17:30,664 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:17:30] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:24:04,701 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:24:07,694 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:24:07,696 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:07] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:24:29,675 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:24:32,378 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:24:32,380 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:32] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:24:36,498 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 13:24:36,528 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,530 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,532 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,533 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,535 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,537 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,539 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,541 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,545 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,548 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,550 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,552 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,555 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,557 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,559 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,570 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,572 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,575 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,576 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 13:24:36,654 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 13:24:36,660 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-22 13:24:36,676 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:36] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 13:24:41,026 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:24:41,027 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:41] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:24:41,256 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:24:41,257 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:41] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:24:41,352 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:24:41,352 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:24:41] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:25:38,816 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:25:41,724 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:25:41,726 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:25:41] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:26:10,866 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:26:13,318 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:26:13,320 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:26:13] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:26:17,452 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:26:17,453 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:26:17] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:27:12,622 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:27:15,308 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:27:15,310 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:27:15] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:27:29,697 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:27:32,602 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:27:32,604 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:27:32] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:27:54,276 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:27:56,927 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:27:56,929 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:27:56] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:28:19,062 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:28:21,465 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:28:21,468 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:28:21] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:29:04,110 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:29:06,347 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:29:06,349 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:29:06] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:29:52,363 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:29:54,422 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:29:54,424 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:29:54] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:30:32,526 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:30:34,966 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:30:34,967 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:34] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:30:39,487 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-22 13:30:39,503 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/prev.png HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,506 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/next.png HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,510 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/menu.png HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,511 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/volume.png HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,512 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/play.png HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,618 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/cover2.jpg HTTP/1.1[0m" 304 -
+2021-05-22 13:30:39,635 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "GET /disk/json/detail/?file_id=48&type=audio HTTP/1.1" 200 -
+2021-05-22 13:30:39,724 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:30:39] "[36mGET /audio/images/pause.png HTTP/1.1[0m" 304 -
+2021-05-22 13:31:06,357 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:31:09,223 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:09,225 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:09] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:13,133 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 13:31:13,165 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,167 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,176 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,178 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,179 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,191 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,191 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,193 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,200 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,205 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,206 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,209 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,212 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,214 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,217 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,220 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,221 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,223 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,225 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 13:31:13,372 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 13:31:13,381 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-22 13:31:13,409 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:13] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 13:31:16,684 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:16,685 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:16] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:17,099 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:17,100 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:17] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:49,359 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:31:53,560 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:53,562 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:53] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:57,454 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 13:31:57,473 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,475 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,481 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,482 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,484 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,485 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,487 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,489 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,497 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,498 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,501 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,502 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,504 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,506 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,508 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,510 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,512 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,514 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,515 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 13:31:57,556 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 13:31:57,571 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-22 13:31:57,588 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:57] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 13:31:59,046 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:59,047 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:59] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:59,189 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:59,191 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:59] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:59,332 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:59,333 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:59] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:31:59,898 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:31:59,899 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:31:59] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:32:26,994 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:32:29,495 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 272, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:32:29,497 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:32:29] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:33:13,332 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:33:15,680 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python3/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/flask/views.py", line 163, in dispatch_request
+    return meth(*args, **kwargs)
+  File "/root/Desktop/project/homework/pro/cloud-site/manage/views.py", line 271, in post
+    src: url
+NameError: name 'src' is not defined
+2021-05-22 13:33:15,682 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:33:15] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:34:10,615 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:34:13,155 - /usr/lib/python3/dist-packages/flask/app.py[line:1891] - ERROR: Exception on /disk/json/detail/ [POST]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/usr/lib/python3/dist-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-05-22 13:34:13,157 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:34:13] "[35m[1mPOST /disk/json/detail/ HTTP/1.1[0m" 500 -
+2021-05-22 13:37:32,910 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:37:35,693 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-22 13:37:35,706 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/prev.png HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,712 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/next.png HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,714 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/play.png HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,715 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/menu.png HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,718 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/volume.png HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,720 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/cover2.jpg HTTP/1.1[0m" 304 -
+2021-05-22 13:37:35,729 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "GET /disk/json/detail/?file_id=48&type=audio HTTP/1.1" 200 -
+2021-05-22 13:37:35,823 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:37:35] "[36mGET /audio/images/pause.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:47,289 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-22 13:41:49,956 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-22 13:41:49,975 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,977 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,979 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,981 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,983 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,985 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,987 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,989 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,990 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,993 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,995 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,998 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:49,999 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:49] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,001 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,003 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,005 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,007 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,010 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,011 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:50,074 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-22 13:41:50,100 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-22 13:41:50,119 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:50] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-22 13:41:51,722 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-22 13:41:51,740 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/prev.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,742 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/play.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,745 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/next.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,748 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/menu.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,751 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/volume.png HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,754 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/cover2.jpg HTTP/1.1[0m" 304 -
+2021-05-22 13:41:51,948 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [22/May/2021 13:41:51] "[36mGET /audio/images/pause.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:02,488 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-23 00:39:06,487 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:39:06,584 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,596 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,601 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,621 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,624 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,626 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,628 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,630 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,632 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,635 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,637 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,638 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,641 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,642 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,646 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,659 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,659 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,660 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-23 00:39:06,663 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:06] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:07,108 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:07] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:39:07,161 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:07] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-23 00:39:07,244 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:07] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:39:08,965 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:08] "POST /disk/json/detail/ HTTP/1.1" 200 -
+2021-05-23 00:39:09,097 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/prev.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,100 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/play.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,101 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/next.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,103 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/volume.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,106 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/menu.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,112 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/cover2.jpg HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,238 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "[36mGET /audio/images/pause.png HTTP/1.1[0m" 304 -
+2021-05-23 00:39:09,281 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:39:09] "GET /disk/json/detail/?file_id=48&type=audio HTTP/1.1" 200 -
+2021-05-23 00:40:10,093 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-23 00:40:12,626 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:40:12,659 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,667 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,668 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,669 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,672 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,675 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,684 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,687 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,699 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,700 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,704 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,705 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,707 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,710 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,712 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,716 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,716 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,719 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,721 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-23 00:40:12,844 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:40:12,853 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "GET /disk/json/path/?diskPath=/disk/凤凰传奇_山河图_Live_.mp3 HTTP/1.1" 200 -
+2021-05-23 00:40:12,870 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:12] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:40:17,421 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:40:17,555 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "[33mGET /Trumbowyg/dist/ui/trumbowyg.min.css HTTP/1.1[0m" 404 -
+2021-05-23 00:40:17,556 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:17,559 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:17,706 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:17,739 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:17,758 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:40:17,776 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:40:17,782 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:17] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:40:20,204 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "GET /admin/message/?key=sendMessage HTTP/1.1" 200 -
+2021-05-23 00:40:20,239 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "[33mGET /Trumbowyg/dist/ui/trumbowyg.min.css HTTP/1.1[0m" 404 -
+2021-05-23 00:40:20,246 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:20,249 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:20,380 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:20,385 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:40:20,417 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:40:20,432 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:40:20,433 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:20] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:40:38,965 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:38] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:40:39,005 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:39] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:40:39,038 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:39] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-23 00:40:39,077 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:39] "[36mGET /img/admin/mask.png HTTP/1.1[0m" 304 -
+2021-05-23 00:40:39,079 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:39] "[36mGET /img/admin/1.jpg HTTP/1.1[0m" 304 -
+2021-05-23 00:40:39,306 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:40:39] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:41:38,413 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-23 00:41:57,049 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:41:57] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-23 00:41:57,071 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:41:57] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:41:57,294 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:41:57] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:41:57,295 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:41:57] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-23 00:41:57,323 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:41:57] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:42:00,354 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "GET /admin/message/?key=sendMessage HTTP/1.1" 200 -
+2021-05-23 00:42:00,430 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "[33mGET /Trumbowyg/dist/ui/trumbowyg.min.css HTTP/1.1[0m" 404 -
+2021-05-23 00:42:00,433 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:42:00,434 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:42:00,502 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:42:00,562 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:42:00,585 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:42:00,610 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:42:00,611 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:00] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:42:36,789 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-23 00:42:43,406 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:43] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:42:43,414 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:43] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:42:43,428 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:43] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-23 00:42:43,511 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:42:43] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:03,355 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:03] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-23 00:43:03,375 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:03] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:43:03,554 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:03] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:03,567 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:03] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-23 00:43:03,586 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:03] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:43:09,522 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:09] "POST /disk/delete/ HTTP/1.1" 200 -
+2021-05-23 00:43:09,532 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:09] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:09,537 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:09] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-23 00:43:14,097 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:14] "POST /disk/delete/ HTTP/1.1" 200 -
+2021-05-23 00:43:14,112 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:14] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:14,113 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:14] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-23 00:43:19,668 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:19] "GET /disk/trash/ HTTP/1.1" 200 -
+2021-05-23 00:43:19,871 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:19] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:19,896 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:19] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:43:19,898 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:19] "POST /disk/trash/ HTTP/1.1" 200 -
+2021-05-23 00:43:19,901 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:19] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:24,112 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:24] "POST /disk/dropFile/ HTTP/1.1" 200 -
+2021-05-23 00:43:24,124 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:24] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:24,127 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:24] "POST /disk/trash/ HTTP/1.1" 200 -
+2021-05-23 00:43:28,963 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:28] "GET /admin/message/?key=sendMessage HTTP/1.1" 200 -
+2021-05-23 00:43:28,999 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:28] "[33mGET /Trumbowyg/dist/ui/trumbowyg.min.css HTTP/1.1[0m" 404 -
+2021-05-23 00:43:29,002 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:43:29,006 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:43:29,050 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:43:29,068 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-23 00:43:29,089 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:43:29,111 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:43:29,117 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:29] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:43:40,758 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:40] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:43:40,811 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:40] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:43:40,815 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:40] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-23 00:43:40,878 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:43:40] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:46:11,979 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-23 00:46:29,108 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:29] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-23 00:46:29,124 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:29] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:46:29,307 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:29] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:46:29,318 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:29] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-23 00:46:29,330 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:29] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:46:35,790 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:35] "GET /admin/message/?key=sendMessage HTTP/1.1" 200 -
+2021-05-23 00:46:35,908 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:35] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:46:35,916 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:35] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:46:35,952 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:35] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:46:42,723 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:42] "POST /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:46:43,885 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:43] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:46:44,007 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:44] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:46:44,026 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:44] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:46:44,053 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:44] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:46:45,516 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:45] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:46:45,521 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:45] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:46:45,532 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:45] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-23 00:46:45,603 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:46:45] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:47:19,152 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:19] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-23 00:47:19,162 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:19] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-23 00:47:19,416 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:19] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:47:19,422 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:19] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-23 00:47:19,440 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:19] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:20,535 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:20] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:47:20,667 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:20] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:47:20,676 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:20] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:20,711 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:20] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:23,018 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "GET /admin/changeMessage/?key=367 HTTP/1.1" 200 -
+2021-05-23 00:47:23,031 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:23,033 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:23,926 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "GET /admin/changeMessage/?key=366 HTTP/1.1" 200 -
+2021-05-23 00:47:23,938 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:23,943 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:23] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:24,450 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "GET /admin/changeMessage/?key=365 HTTP/1.1" 200 -
+2021-05-23 00:47:24,462 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:24,466 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:24,864 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "GET /admin/changeMessage/?key=352 HTTP/1.1" 200 -
+2021-05-23 00:47:24,874 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:24,879 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:24] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:25,275 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:25] "GET /admin/changeMessage/?key=350 HTTP/1.1" 200 -
+2021-05-23 00:47:25,289 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:25] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:25,296 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:25] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:41,558 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:41] "POST /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:47:42,675 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:42] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-23 00:47:42,802 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:42] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:42,804 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:42] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-23 00:47:42,836 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:42] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-23 00:47:49,997 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:49] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:47:50,003 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:50] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-23 00:47:50,006 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:50] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-23 00:47:50,072 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [23/May/2021 00:47:50] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:02:16,129 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-27 20:02:50,079 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-27 20:02:50,126 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-27 20:02:50,175 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-27 20:02:50,269 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /css/manage/index.css HTTP/1.1" 200 -
+2021-05-27 20:02:50,277 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1" 200 -
+2021-05-27 20:02:50,292 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1" 200 -
+2021-05-27 20:02:50,297 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1" 200 -
+2021-05-27 20:02:50,302 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /js/manage/index.js HTTP/1.1" 200 -
+2021-05-27 20:02:50,348 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /img/admin/mask.png HTTP/1.1" 200 -
+2021-05-27 20:02:50,374 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /img/admin/1.jpg HTTP/1.1" 200 -
+2021-05-27 20:02:50,587 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:02:50] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:03:06,145 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-27 20:03:06,183 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-27 20:03:06,252 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,255 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/manage/index.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,264 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,265 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,266 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/manage/font/iconfont.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,266 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/manage/font_hehahutu/iconfont.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,269 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /audio/css/audio.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,272 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /img/logo.png HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,284 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1" 200 -
+2021-05-27 20:03:06,317 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/manage/font_hehahutu/iconfont.woff?t=1495258202566 HTTP/1.1" 200 -
+2021-05-27 20:03:06,322 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2021-05-27 20:03:06,326 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /bootstrap-fileinput/js/fileinput.min.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,331 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /bootstrap-fileinput/themes/explorer/theme.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,332 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /bootstrap-fileinput/js/locales/zh.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,334 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /js/manage/clipboard.min.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,342 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /js/manage/audio/audio.min.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,347 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /audio/js/audio.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,347 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "[36mGET /js/manage/home.js HTTP/1.1[0m" 304 -
+2021-05-27 20:03:06,383 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /css/manage/font/iconfont.woff?t=1493914230439 HTTP/1.1" 200 -
+2021-05-27 20:03:06,717 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:03:06,786 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:03:06,802 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:06] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-27 20:03:08,258 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-27 20:03:08,294 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[36mGET /css/manage/font/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:08,297 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[36mGET /css/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:08,300 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[36mGET /css/manage/font_hehahutu/iconfont.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:08,303 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[36mGET /bootstrap-fileinput/css/fileinput.min.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:08,305 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[36mGET /bootstrap-fileinput/themes/explorer/theme.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:08,307 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[33mGET /Trumbowyg/dist/ui/trumbowyg.min.css HTTP/1.1[0m" 404 -
+2021-05-27 20:03:08,316 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-27 20:03:08,319 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-27 20:03:08,422 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[33mGET /Trumbowyg/dist/trumbowyg.min.js HTTP/1.1[0m" 404 -
+2021-05-27 20:03:08,427 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "[33mGET /Trumbowyg/dist/langs/zh_cn.min.js HTTP/1.1[0m" 404 -
+2021-05-27 20:03:08,449 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:03:08,465 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:03:08,472 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:08] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:03:10,810 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:10] "GET /admin/changeMessage/?key=368 HTTP/1.1" 200 -
+2021-05-27 20:03:10,829 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:10] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:03:10,838 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:10] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:03:12,268 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:12] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-27 20:03:12,327 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:12] "[36mGET /audio/css/audio.css HTTP/1.1[0m" 304 -
+2021-05-27 20:03:12,482 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:12] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:03:12,513 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:12] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-27 20:03:12,543 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:03:12] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-27 20:04:48,802 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:48] "GET /js/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+2021-05-27 20:04:55,409 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:55] "GET /bootstrap-fileinput/img/loading.gif HTTP/1.1" 200 -
+2021-05-27 20:04:56,721 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:56] "GET /bootstrap-fileinput/img/loading-sm.gif HTTP/1.1" 200 -
+2021-05-27 20:04:56,750 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:56] "POST /disk/upload/ HTTP/1.1" 200 -
+2021-05-27 20:04:56,902 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:56] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-27 20:04:56,906 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:04:56] "GET /disk/json/path/?diskPath=/disk HTTP/1.1" 200 -
+2021-05-27 20:05:01,217 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:05:01] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-27 20:05:01,234 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:05:01] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-27 20:05:01,241 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:05:01] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-27 20:05:01,333 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:05:01] "GET /img/admin/mask.png HTTP/1.1" 200 -
+2021-05-27 20:05:01,422 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [27/May/2021 20:05:01] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
