@@ -3288,3 +3288,39 @@ TypeError: The view function did not return a valid response. The function eithe
 2021-05-28 17:28:37,315 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 2021-05-28 17:28:41,657 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:28:41] "GET /admin/register/ HTTP/1.1" 200 -
 2021-05-28 17:28:41,758 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:28:41] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:33:10,085 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-28 17:33:27,674 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "[32mPOST /admin/login/ HTTP/1.1[0m" 302 -
+2021-05-28 17:33:27,691 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "GET /disk/home/ HTTP/1.1" 200 -
+2021-05-28 17:33:27,839 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "[36mGET /css/manage/font_hehahutu/iconfont.woff?t=1495258202566 HTTP/1.1[0m" 304 -
+2021-05-28 17:33:27,841 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "[36mGET /css/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2021-05-28 17:33:27,902 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:33:27,970 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-28 17:33:27,974 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:27] "GET /disk/json/path/?diskPath= HTTP/1.1" 200 -
+2021-05-28 17:33:29,503 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:29] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-28 17:33:29,604 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:29] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:33:29,619 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:29] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-28 17:33:29,656 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:29] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-28 17:33:35,564 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:35] "POST /admin/message/ HTTP/1.1" 200 -
+2021-05-28 17:33:36,903 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:36] "GET /admin/message/ HTTP/1.1" 200 -
+2021-05-28 17:33:37,024 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:37] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:33:37,041 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:37] "POST /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-28 17:33:37,063 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:37] "GET /admin/getMessage/ HTTP/1.1" 200 -
+2021-05-28 17:33:38,036 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:38] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-28 17:33:38,044 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:38] "[32mGET /admin/exit/ HTTP/1.1[0m" 302 -
+2021-05-28 17:33:38,051 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:38] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-28 17:33:38,128 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:33:38] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:46:57,942 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-05-28 17:47:06,999 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:06] "[32mGET / HTTP/1.1[0m" 302 -
+2021-05-28 17:47:07,054 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:07] "[32mGET /disk/home/ HTTP/1.1[0m" 302 -
+2021-05-28 17:47:07,065 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:07] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-28 17:47:07,132 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:07] "GET /img/admin/mask.png HTTP/1.1" 200 -
+2021-05-28 17:47:07,189 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:07] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
+2021-05-28 17:47:10,804 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "GET /admin/login/ HTTP/1.1" 200 -
+2021-05-28 17:47:10,831 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /js/bootstrap-3.3.7/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,832 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /css/manage/index.css HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,834 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /js/bootstrap-3.3.7/jquery-3.2.0.min.js HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,836 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /js/bootstrap-3.3.7/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,837 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /js/manage/index.js HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,848 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /img/admin/mask.png HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,851 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "[36mGET /img/admin/1.jpg HTTP/1.1[0m" 304 -
+2021-05-28 17:47:10,974 - /usr/lib/python3/dist-packages/werkzeug/_internal.py[line:225] - INFO: 127.0.0.1 - - [28/May/2021 17:47:10] "GET /disk/json/diskSize/ HTTP/1.1" 200 -
